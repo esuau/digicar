@@ -47,6 +47,9 @@
                 <li class="nav-item">
                     <a class="nav-link" href="<c:url value="/users"/>">Utilisateurs</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="<c:url value="/invoices"/>">Facture</a>
+                </li>
             </ul>
         </div>
     </nav>
